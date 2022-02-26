@@ -1,0 +1,5 @@
+def countdown(num)
+    num.downto(2)
+end
+
+p countdown(10)
